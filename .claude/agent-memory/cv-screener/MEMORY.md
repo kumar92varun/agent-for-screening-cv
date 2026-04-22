@@ -1,0 +1,1 @@
+- [Fresher AI Engineer Screening Patterns](fresher_ai_engineer_screening_insights.md) — Critical reqs, acceptable gaps, red flags, and passing profile examples

@@ -1,0 +1,334 @@
+# Technical Skills
+- [Technical Skills | Weight: 10] Candidate clearly mentions at least one primary programming language with strong proficiency (not just basic familiarity)
+- [Technical Skills | Weight: 10] Primary programming language aligns exactly with job requirements
+- [Technical Skills | Weight: 9] Candidate demonstrates depth in at least one programming language through real usage
+- [Technical Skills | Weight: 9] Candidate lists multiple relevant programming languages used in real projects
+- [Technical Skills | Weight: 8] Candidate uses modern and actively maintained programming languages
+- [Technical Skills | Weight: 9] Candidate demonstrates strong understanding of object-oriented programming (OOP)
+- [Technical Skills | Weight: 7] Candidate demonstrates understanding of functional programming concepts where applicable
+- [Technical Skills | Weight: 10] Candidate demonstrates solid understanding of data structures (arrays, trees, graphs, etc.)
+- [Technical Skills | Weight: 10] Candidate demonstrates solid understanding of algorithms
+- [Technical Skills | Weight: 9] Candidate shows awareness of time and space complexity
+- [Technical Skills | Weight: 9] Candidate demonstrates backend development capability
+- [Technical Skills | Weight: 8] Candidate demonstrates frontend development capability (if role requires)
+- [Technical Skills | Weight: 8] Candidate demonstrates full-stack capability (if relevant)
+- [Technical Skills | Weight: 9] Candidate has experience building APIs
+- [Technical Skills | Weight: 9] Candidate has strong knowledge of REST API design
+- [Technical Skills | Weight: 7] Candidate has knowledge of GraphQL (if relevant)
+- [Technical Skills | Weight: 9] Candidate understands microservices architecture
+- [Technical Skills | Weight: 7] Candidate understands monolithic architecture trade-offs
+- [Technical Skills | Weight: 8] Candidate demonstrates knowledge of design patterns
+- [Technical Skills | Weight: 9] Candidate follows clean code practices
+- [Technical Skills | Weight: 9] Candidate understands SOLID principles
+- [Technical Skills | Weight: 8] Candidate demonstrates use of dependency injection
+- [Technical Skills | Weight: 9] Candidate demonstrates asynchronous programming knowledge
+- [Technical Skills | Weight: 9] Candidate demonstrates multithreading or concurrency knowledge
+- [Technical Skills | Weight: 8] Candidate understands memory management concepts
+- [Technical Skills | Weight: 9] Candidate demonstrates performance optimization techniques
+- [Technical Skills | Weight: 9] Candidate demonstrates debugging skills
+- [Technical Skills | Weight: 8] Candidate uses structured logging practices
+- [Technical Skills | Weight: 9] Candidate demonstrates robust error handling strategies
+- [Technical Skills | Weight: 7] Candidate understands version compatibility issues
+- [Technical Skills | Weight: 7] Candidate understands backward compatibility practices
+- [Technical Skills | Weight: 10] Candidate demonstrates understanding of scalability concepts
+- [Technical Skills | Weight: 9] Candidate understands high availability systems
+- [Technical Skills | Weight: 9] Candidate demonstrates system reliability practices
+- [Technical Skills | Weight: 9] Candidate uses caching mechanisms (Redis, etc.)
+- [Technical Skills | Weight: 9] Candidate has experience with message queues (Kafka, RabbitMQ)
+- [Technical Skills | Weight: 8] Candidate understands event-driven architecture
+- [Technical Skills | Weight: 9] Candidate understands distributed systems fundamentals
+- [Technical Skills | Weight: 10] Candidate demonstrates system design fundamentals
+- [Technical Skills | Weight: 8] Candidate demonstrates API security basics (auth, tokens, etc.)
+- [Frameworks | Weight: 10] Candidate uses frameworks directly relevant to the job role
+- [Frameworks | Weight: 9] Candidate demonstrates deep experience in at least one major framework
+- [Frameworks | Weight: 8] Candidate uses modern frameworks (not outdated)
+- [Frameworks | Weight: 9] Candidate has backend framework experience (Node.js, Spring, Django, Laravel, etc.)
+- [Frameworks | Weight: 8] Candidate has frontend framework experience (React, Angular, Vue)
+- [Frameworks | Weight: 7] Candidate uses state management libraries (Redux, Zustand, etc.)
+- [Frameworks | Weight: 7] Candidate uses UI libraries (Material UI, Bootstrap)
+- [Frameworks | Weight: 9] Candidate uses ORM tools (Hibernate, Sequelize, Prisma, etc.)
+- [Frameworks | Weight: 9] Candidate uses testing frameworks (Jest, Mocha, PyTest, JUnit)
+- [Frameworks | Weight: 8] Candidate uses build tools (Webpack, Vite, etc.)
+- [Frameworks | Weight: 8] Candidate uses package managers (npm, yarn, pip, etc.)
+- [Frameworks | Weight: 9] Candidate has experience with Docker
+- [Frameworks | Weight: 8] Candidate has experience with Kubernetes
+- [Frameworks | Weight: 8] Candidate has experience with serverless frameworks
+- [Frameworks | Weight: 9] Candidate uses API frameworks effectively
+- [Frameworks | Weight: 8] Candidate implements authentication libraries
+- [Frameworks | Weight: 8] Candidate uses authorization frameworks (RBAC, OAuth)
+- [Frameworks | Weight: 7] Candidate uses templating engines where relevant
+- [Frameworks | Weight: 8] Candidate has mobile framework experience (React Native, Flutter)
+- [Frameworks | Weight: 7] Candidate has cross-platform development experience
+- [Frameworks | Weight: 8] Candidate integrates third-party APIs
+- [Frameworks | Weight: 7] Candidate works with SDK integrations
+- [Frameworks | Weight: 7] Candidate uses plugin-based architectures
+- [Frameworks | Weight: 8] Candidate understands middleware usage
+- [Frameworks | Weight: 8] Candidate manages dependencies properly
+- [Frameworks | Weight: 8] Candidate follows framework best practices
+- [Frameworks | Weight: 7] Candidate demonstrates reusable component design
+- [Frameworks | Weight: 8] Candidate demonstrates modular architecture usage
+- [Frameworks | Weight: 7] Candidate uses code scaffolding tools
+- [Frameworks | Weight: 7] Candidate uses CLI tools effectively
+- [Database | Weight: 10] Candidate has strong SQL database experience (MySQL, PostgreSQL, etc.)
+- [Database | Weight: 9] Candidate demonstrates query optimization skills
+- [Database | Weight: 9] Candidate understands indexing strategies
+- [Database | Weight: 8] Candidate understands normalization concepts
+- [Database | Weight: 8] Candidate understands denormalization trade-offs
+- [Database | Weight: 9] Candidate uses NoSQL databases (MongoDB, DynamoDB, etc.)
+- [Database | Weight: 8] Candidate understands when to use SQL vs NoSQL
+- [Database | Weight: 9] Candidate demonstrates database design skills
+- [Database | Weight: 8] Candidate understands transactions and ACID properties
+- [Database | Weight: 8] Candidate understands eventual consistency
+- [Database | Weight: 9] Candidate demonstrates experience with large datasets
+- [Database | Weight: 8] Candidate demonstrates data migration experience
+- [Database | Weight: 7] Candidate demonstrates backup and recovery knowledge
+- [Database | Weight: 8] Candidate uses ORM efficiently
+- [Database | Weight: 7] Candidate uses raw queries when needed
+- [Database | Weight: 8] Candidate demonstrates schema design expertise
+- [Database | Weight: 8] Candidate handles database performance tuning
+- [Database | Weight: 7] Candidate demonstrates replication knowledge
+- [Database | Weight: 7] Candidate demonstrates sharding knowledge
+- [Database | Weight: 8] Candidate demonstrates caching with DB (Redis etc.)
+- [Database | Weight: 8] Candidate understands data modeling
+- [Database | Weight: 7] Candidate uses search engines (Elasticsearch, etc.)
+- [Database | Weight: 7] Candidate demonstrates log storage handling
+- [Database | Weight: 7] Candidate demonstrates analytics DB usage
+- [Database | Weight: 8] Candidate demonstrates cloud database usage
+- [Database | Weight: 8] Candidate understands DB security practices
+- [Database | Weight: 7] Candidate demonstrates data partitioning knowledge
+- [Database | Weight: 7] Candidate demonstrates connection pooling knowledge
+- [Database | Weight: 7] Candidate understands read/write separation
+- [Database | Weight: 8] Candidate demonstrates real-world DB scaling experience
+- [DevOps/Cloud | Weight: 10] Candidate demonstrates hands-on experience with at least one major cloud provider (AWS, Azure, or GCP)
+- [DevOps/Cloud | Weight: 9] Candidate has deployed real applications on cloud infrastructure
+- [DevOps/Cloud | Weight: 9] Candidate understands cloud architecture fundamentals (VPC, subnets, etc.)
+- [DevOps/Cloud | Weight: 9] Candidate demonstrates CI/CD pipeline implementation experience
+- [DevOps/Cloud | Weight: 8] Candidate uses CI/CD tools (GitHub Actions, Jenkins, GitLab CI, etc.)
+- [DevOps/Cloud | Weight: 9] Candidate has strong Docker containerization experience
+- [DevOps/Cloud | Weight: 9] Candidate demonstrates Kubernetes orchestration knowledge
+- [DevOps/Cloud | Weight: 8] Candidate uses infrastructure as code (Terraform, CloudFormation)
+- [DevOps/Cloud | Weight: 8] Candidate understands environment configuration management
+- [DevOps/Cloud | Weight: 8] Candidate demonstrates load balancing knowledge
+- [DevOps/Cloud | Weight: 9] Candidate demonstrates auto-scaling setup experience
+- [DevOps/Cloud | Weight: 8] Candidate uses monitoring tools (CloudWatch, Prometheus, etc.)
+- [DevOps/Cloud | Weight: 8] Candidate uses logging tools (ELK stack, etc.)
+- [DevOps/Cloud | Weight: 8] Candidate understands alerting mechanisms
+- [DevOps/Cloud | Weight: 9] Candidate demonstrates deployment strategies (blue-green, rolling)
+- [DevOps/Cloud | Weight: 7] Candidate demonstrates CDN usage knowledge
+- [DevOps/Cloud | Weight: 8] Candidate understands DNS configuration basics
+- [DevOps/Cloud | Weight: 8] Candidate demonstrates SSL/TLS setup knowledge
+- [DevOps/Cloud | Weight: 9] Candidate demonstrates serverless architecture experience (Lambda, etc.)
+- [DevOps/Cloud | Weight: 8] Candidate demonstrates event-driven cloud architecture
+- [DevOps/Cloud | Weight: 7] Candidate understands cost optimization strategies in cloud
+- [DevOps/Cloud | Weight: 8] Candidate demonstrates secrets management practices
+- [DevOps/Cloud | Weight: 8] Candidate demonstrates API gateway usage
+- [DevOps/Cloud | Weight: 8] Candidate demonstrates queue services usage (SQS, Pub/Sub)
+- [DevOps/Cloud | Weight: 7] Candidate demonstrates storage services usage (S3, Blob storage)
+- [DevOps/Cloud | Weight: 7] Candidate demonstrates cloud networking basics
+- [DevOps/Cloud | Weight: 8] Candidate demonstrates container security practices
+- [DevOps/Cloud | Weight: 7] Candidate demonstrates disaster recovery understanding
+- [DevOps/Cloud | Weight: 8] Candidate demonstrates high availability cloud architecture
+- [DevOps/Cloud | Weight: 8] Candidate demonstrates environment separation (dev/staging/prod)
+- [Testing | Weight: 10] Candidate writes unit tests for core functionality
+- [Testing | Weight: 9] Candidate writes integration tests
+- [Testing | Weight: 8] Candidate writes end-to-end tests
+- [Testing | Weight: 9] Candidate uses test frameworks effectively
+- [Testing | Weight: 8] Candidate demonstrates test coverage awareness
+- [Testing | Weight: 9] Candidate follows test-driven development (TDD) practices
+- [Testing | Weight: 8] Candidate demonstrates mocking/stubbing knowledge
+- [Testing | Weight: 8] Candidate demonstrates regression testing understanding
+- [Testing | Weight: 7] Candidate demonstrates performance testing knowledge
+- [Testing | Weight: 7] Candidate demonstrates load testing knowledge
+- [Testing | Weight: 8] Candidate demonstrates API testing tools (Postman, etc.)
+- [Testing | Weight: 8] Candidate uses linting tools (ESLint, etc.)
+- [Testing | Weight: 8] Candidate uses code formatting tools (Prettier, etc.)
+- [Testing | Weight: 9] Candidate demonstrates code review practices
+- [Testing | Weight: 8] Candidate demonstrates static code analysis usage
+- [Testing | Weight: 8] Candidate demonstrates CI-integrated testing
+- [Testing | Weight: 7] Candidate demonstrates bug tracking tools usage
+- [Testing | Weight: 7] Candidate demonstrates QA collaboration experience
+- [Testing | Weight: 8] Candidate demonstrates defect resolution practices
+- [Testing | Weight: 9] Candidate writes clean, maintainable, testable code
+- [Security | Weight: 10] Candidate understands authentication mechanisms (JWT, OAuth, etc.)
+- [Security | Weight: 9] Candidate understands authorization (RBAC, ACL)
+- [Security | Weight: 9] Candidate demonstrates secure coding practices
+- [Security | Weight: 9] Candidate understands common vulnerabilities (OWASP Top 10)
+- [Security | Weight: 8] Candidate demonstrates input validation practices
+- [Security | Weight: 9] Candidate demonstrates data encryption knowledge
+- [Security | Weight: 8] Candidate demonstrates HTTPS enforcement
+- [Security | Weight: 8] Candidate demonstrates session management practices
+- [Security | Weight: 8] Candidate demonstrates API security best practices
+- [Security | Weight: 7] Candidate demonstrates rate limiting knowledge
+- [Security | Weight: 7] Candidate demonstrates CORS handling knowledge
+- [Security | Weight: 8] Candidate demonstrates secrets protection (env variables, vaults)
+- [Security | Weight: 7] Candidate demonstrates vulnerability scanning awareness
+- [Security | Weight: 7] Candidate demonstrates dependency security awareness
+- [Security | Weight: 8] Candidate demonstrates secure deployment practices
+- [System Design | Weight: 10] Candidate demonstrates ability to design scalable systems
+- [System Design | Weight: 10] Candidate demonstrates ability to design high-level architecture
+- [System Design | Weight: 9] Candidate understands trade-offs in system design
+- [System Design | Weight: 9] Candidate demonstrates real-world system design experience
+- [System Design | Weight: 9] Candidate demonstrates API design best practices
+- [System Design | Weight: 8] Candidate demonstrates modular architecture design
+- [System Design | Weight: 8] Candidate demonstrates layered architecture understanding
+- [System Design | Weight: 9] Candidate demonstrates distributed system design
+- [System Design | Weight: 8] Candidate demonstrates data flow architecture understanding
+- [System Design | Weight: 8] Candidate demonstrates fault tolerance design
+- [System Design | Weight: 8] Candidate demonstrates scalability patterns (sharding, caching)
+- [System Design | Weight: 8] Candidate demonstrates messaging system design
+- [System Design | Weight: 8] Candidate demonstrates API rate limiting design
+- [System Design | Weight: 7] Candidate demonstrates CDN usage in architecture
+- [System Design | Weight: 8] Candidate demonstrates load balancing strategies
+- [System Design | Weight: 7] Candidate demonstrates event-driven architecture design
+- [System Design | Weight: 8] Candidate demonstrates resilience patterns (retry, circuit breaker)
+- [System Design | Weight: 7] Candidate demonstrates observability design (logs, metrics)
+- [System Design | Weight: 8] Candidate demonstrates database scaling strategies
+- [System Design | Weight: 9] Candidate demonstrates real-world architecture decision-making
+- [AI/ML | Weight: 8] Candidate demonstrates basic understanding of machine learning concepts
+- [AI/ML | Weight: 8] Candidate demonstrates experience with ML libraries (TensorFlow, PyTorch)
+- [AI/ML | Weight: 7] Candidate demonstrates data preprocessing knowledge
+- [AI/ML | Weight: 7] Candidate demonstrates model evaluation techniques
+- [AI/ML | Weight: 7] Candidate demonstrates NLP basics (if relevant)
+- [AI/ML | Weight: 7] Candidate demonstrates experience with APIs for AI services
+- [AI/ML | Weight: 8] Candidate demonstrates real-world ML project experience
+- [AI/ML | Weight: 7] Candidate demonstrates understanding of model deployment
+- [AI/ML | Weight: 6] Candidate demonstrates knowledge of deep learning basics
+- [AI/ML | Weight: 7] Candidate demonstrates handling of datasets at scale
+- [Version Control | Weight: 10] Candidate demonstrates strong Git usage (branching, merging)
+- [Version Control | Weight: 9] Candidate follows proper commit practices
+- [Version Control | Weight: 8] Candidate demonstrates pull request workflow experience
+- [Version Control | Weight: 8] Candidate demonstrates collaboration via version control
+- [Version Control | Weight: 9] Candidate demonstrates resolving merge conflicts effectively
+
+
+# Non Technical, Soft Skills
+- [Soft Skills | Weight: 9] Candidate demonstrates clear and structured communication in CV (well-written, no ambiguity)
+- [Soft Skills | Weight: 8] Candidate explains projects with clarity (problem → solution → impact)
+- [Soft Skills | Weight: 9] Candidate shows ownership of work (uses “built”, “designed”, “led” vs vague terms)
+- [Soft Skills | Weight: 8] Candidate demonstrates teamwork experience in projects
+- [Soft Skills | Weight: 8] Candidate demonstrates collaboration with cross-functional teams
+- [Soft Skills | Weight: 7] Candidate shows experience working in agile/scrum teams
+- [Soft Skills | Weight: 8] Candidate demonstrates problem-solving mindset via real examples
+- [Soft Skills | Weight: 8] Candidate demonstrates ability to break down complex problems
+- [Soft Skills | Weight: 7] Candidate shows adaptability to new technologies
+- [Soft Skills | Weight: 7] Candidate shows continuous learning (courses, certifications, self-learning)
+- [Soft Skills | Weight: 8] Candidate demonstrates initiative (side projects, contributions)
+- [Soft Skills | Weight: 7] Candidate demonstrates time management (multiple projects handled)
+- [Soft Skills | Weight: 7] Candidate shows accountability (ownership of outcomes)
+- [Soft Skills | Weight: 6] Candidate demonstrates leadership (mentoring, leading modules)
+- [Soft Skills | Weight: 6] Candidate demonstrates decision-making ability
+- [Soft Skills | Weight: 7] Candidate demonstrates stakeholder communication (client interaction)
+- [Soft Skills | Weight: 7] Candidate demonstrates ability to explain technical concepts
+- [Soft Skills | Weight: 6] Candidate shows conflict resolution experience
+- [Soft Skills | Weight: 7] Candidate demonstrates attention to detail (clean formatting, no errors)
+- [Soft Skills | Weight: 6] Candidate shows documentation habits
+- [Soft Skills | Weight: 7] Candidate demonstrates proactive problem identification
+- [Soft Skills | Weight: 6] Candidate demonstrates feedback acceptance and iteration
+- [Soft Skills | Weight: 6] Candidate shows curiosity and experimentation mindset
+- [Soft Skills | Weight: 7] Candidate demonstrates consistency in career progression
+- [Soft Skills | Weight: 6] Candidate demonstrates professionalism in tone of CV
+- [Soft Skills | Weight: 7] Candidate shows impact-driven thinking (mentions results, not just tasks)
+- [Soft Skills | Weight: 6] Candidate demonstrates remote work or async collaboration ability
+- [Soft Skills | Weight: 6] Candidate demonstrates clarity in role responsibilities
+- [Soft Skills | Weight: 7] Candidate demonstrates learning from failures (if mentioned)
+- [Soft Skills | Weight: 6] Candidate demonstrates contribution to team success
+- [Communication | Weight: 10] CV is clearly written with no ambiguity in roles, skills, or responsibilities
+- [Communication | Weight: 9] Candidate explains projects using structured format (problem → solution → outcome)
+- [Communication | Weight: 9] Bullet points are concise and not overly verbose
+- [Communication | Weight: 8] CV avoids grammatical and spelling errors
+- [Communication | Weight: 8] Candidate uses professional and consistent tone throughout CV
+- [Communication | Weight: 8] Candidate avoids vague phrases (e.g., “worked on”, “helped with”)
+- [Communication | Weight: 9] Candidate uses action-oriented language (built, designed, implemented)
+- [Communication | Weight: 8] CV is easy to scan quickly (good formatting, spacing, sections)
+- [Communication | Weight: 7] Candidate highlights key achievements clearly
+- [Communication | Weight: 7] Candidate avoids unnecessary jargon or fluff
+- [Communication | Weight: 8] Technical concepts are explained clearly (not just listed)
+- [Communication | Weight: 7] Candidate uses measurable impact where possible
+- [Communication | Weight: 7] CV length is appropriate (not too long or too short)
+- [Communication | Weight: 6] Candidate includes a strong summary/profile section
+- [Communication | Weight: 7] Sections are logically organized (skills, experience, projects)
+- [Communication | Weight: 6] Candidate avoids repetition across sections
+- [Communication | Weight: 7] CV formatting is consistent throughout
+- [Communication | Weight: 6] Candidate uses bullet points instead of large paragraphs
+- [Communication | Weight: 6] Important information is not buried in dense text
+- [Communication | Weight: 7] Candidate demonstrates clarity in role descriptions
+- [Ownership | Weight: 10] Candidate clearly shows ownership of projects (end-to-end responsibility)
+- [Ownership | Weight: 9] Candidate demonstrates independent problem-solving ability
+- [Ownership | Weight: 9] Candidate describes challenges faced and how they were solved
+- [Ownership | Weight: 8] Candidate shows initiative beyond assigned tasks
+- [Ownership | Weight: 8] Candidate contributes ideas or improvements in projects
+- [Ownership | Weight: 8] Candidate demonstrates decision-making ability
+- [Ownership | Weight: 8] Candidate shows accountability for outcomes
+- [Ownership | Weight: 7] Candidate highlights impact of decisions made
+- [Ownership | Weight: 7] Candidate demonstrates ability to prioritize tasks
+- [Ownership | Weight: 7] Candidate demonstrates ownership in team environments
+- [Ownership | Weight: 8] Candidate shows proactive problem identification
+- [Ownership | Weight: 7] Candidate demonstrates ability to work with minimal supervision
+- [Ownership | Weight: 7] Candidate demonstrates execution ability (not just ideas)
+- [Ownership | Weight: 6] Candidate shows persistence in solving problems
+- [Ownership | Weight: 7] Candidate demonstrates real-world impact of contributions
+- [Ownership | Weight: 6] Candidate shows examples of taking responsibility during failures
+- [Ownership | Weight: 6] Candidate demonstrates risk-taking in projects
+- [Ownership | Weight: 7] Candidate demonstrates structured thinking approach
+- [Ownership | Weight: 7] Candidate demonstrates outcome-focused mindset
+- [Ownership | Weight: 6] Candidate shows ability to handle ambiguity
+- [Collaboration | Weight: 9] Candidate demonstrates working in team environments
+- [Collaboration | Weight: 8] Candidate demonstrates cross-functional collaboration
+- [Collaboration | Weight: 8] Candidate works with designers, QA, product teams
+- [Collaboration | Weight: 8] Candidate demonstrates communication with stakeholders
+- [Collaboration | Weight: 7] Candidate demonstrates remote collaboration experience
+- [Collaboration | Weight: 7] Candidate demonstrates Agile/Scrum participation
+- [Collaboration | Weight: 7] Candidate participates in team discussions/planning
+- [Collaboration | Weight: 6] Candidate contributes to team knowledge sharing
+- [Collaboration | Weight: 6] Candidate demonstrates conflict resolution ability
+- [Collaboration | Weight: 7] Candidate supports team members (mentoring/helping)
+- [Collaboration | Weight: 7] Candidate demonstrates collaboration tools usage (Slack, Jira)
+- [Collaboration | Weight: 6] Candidate adapts to team workflows
+- [Collaboration | Weight: 6] Candidate demonstrates alignment with team goals
+- [Collaboration | Weight: 6] Candidate handles feedback constructively
+- [Collaboration | Weight: 6] Candidate contributes to collective outcomes
+- [Learning | Weight: 9] Candidate demonstrates continuous learning (courses, certifications)
+- [Learning | Weight: 8] Candidate keeps up with new technologies
+- [Learning | Weight: 8] Candidate learns tools/frameworks beyond job requirements
+- [Learning | Weight: 8] Candidate builds side projects for learning
+- [Learning | Weight: 7] Candidate contributes to open-source (if applicable)
+- [Learning | Weight: 7] Candidate demonstrates curiosity and experimentation
+- [Learning | Weight: 7] Candidate learns from failures and iterations
+- [Learning | Weight: 7] Candidate demonstrates self-learning ability
+- [Learning | Weight: 6] Candidate attends workshops/webinars
+- [Learning | Weight: 6] Candidate follows industry trends
+- [Learning | Weight: 7] Candidate demonstrates growth across roles
+- [Learning | Weight: 6] Candidate upgrades skills over time
+- [Learning | Weight: 6] Candidate shows long-term learning consistency
+- [Learning | Weight: 6] Candidate demonstrates knowledge sharing
+- [Learning | Weight: 7] Candidate demonstrates improvement mindset
+- [Career | Weight: 9] Candidate shows logical career progression
+- [Career | Weight: 8] Candidate shows increasing responsibilities over time
+- [Career | Weight: 8] Candidate avoids frequent short job switches without reason
+- [Career | Weight: 7] Candidate shows role consistency with career goals
+- [Career | Weight: 7] Candidate demonstrates growth within same company
+- [Career | Weight: 6] Candidate shows promotions or expanded roles
+- [Career | Weight: 7] Candidate shows stable employment duration
+- [Career | Weight: 6] Candidate explains career gaps (if any)
+- [Career | Weight: 6] Candidate shows intentional career moves
+- [Career | Weight: 6] Candidate avoids irrelevant job history clutter
+- [Career | Weight: 6] Candidate demonstrates specialization or focus
+- [Career | Weight: 6] Candidate aligns past roles with current role
+- [Career | Weight: 6] Candidate avoids inconsistent job titles
+- [Career | Weight: 6] Candidate demonstrates upward trajectory
+- [Career | Weight: 7] Candidate shows long-term career direction
+- [Education | Weight: 8] Candidate has relevant degree (CS, IT, etc.)
+- [Education | Weight: 7] Candidate has strong academic background (if fresher)
+- [Education | Weight: 7] Candidate has relevant certifications
+- [Education | Weight: 7] Certifications align with job requirements
+- [Education | Weight: 6] Candidate has completed recognized courses
+- [Education | Weight: 6] Candidate demonstrates practical learning beyond degree
+- [Education | Weight: 6] Candidate shows academic projects relevance
+- [Education | Weight: 5] Candidate shows consistent academic performance
+- [Education | Weight: 6] Candidate shows specialization in relevant domain
+- [Education | Weight: 6] Candidate demonstrates applied knowledge
+- [Portfolio | Weight: 10] Candidate provides GitHub or code repository links
+- [Portfolio | Weight: 9] Candidate provides live project/demo links
+- [Portfolio | Weight: 8] Projects demonstrate real-world problem solving
+- [Portfolio | Weight: 8] Code quality in shared projects is high
+- [Portfolio | Weight: 9] Candidate demonstrates verifiable work (not just claims)

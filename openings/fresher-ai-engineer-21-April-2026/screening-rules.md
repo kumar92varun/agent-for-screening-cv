@@ -1,0 +1,106 @@
+- [Programming Fundamentals | Critical] Candidate demonstrates strong Python programming through AI/ML or automation projects
+- [Programming Fundamentals | Critical] Candidate shows hands-on NumPy and Pandas usage
+- [Programming Fundamentals | High] Candidate demonstrates object-oriented programming concepts
+- [Programming Fundamentals | High] Candidate shows data structures relevant to ML workloads
+- [Programming Fundamentals | High] Candidate demonstrates algorithmic problem-solving ability
+- [Data Engineering | High] Candidate shows SQL querying and relational database skills
+- [Software Engineering | High] Candidate demonstrates Git/GitHub proficiency
+- [Software Engineering | Medium] Candidate shows Linux/CLI familiarity
+- [Software Engineering | Medium] Candidate demonstrates REST API integration exposure
+- [Software Engineering | Medium] Candidate shows debugging and profiling tools usage
+- [Machine Learning Foundations | Critical] Candidate demonstrates supervised learning project experience
+- [Machine Learning Foundations | Critical] Candidate shows unsupervised learning exposure
+- [Machine Learning Foundations | High] Candidate demonstrates regression algorithm implementation
+- [Machine Learning Foundations | High] Candidate shows classification model experience
+- [Machine Learning Foundations | High] Candidate demonstrates clustering algorithm exposure
+- [Machine Learning Foundations | High] Candidate shows feature engineering evidence
+- [Machine Learning Foundations | High] Candidate demonstrates model evaluation metrics usage
+- [Machine Learning Foundations | High] Candidate shows cross-validation understanding
+- [Machine Learning Foundations | High] Candidate demonstrates hyperparameter tuning exposure
+- [Machine Learning Foundations | High] Candidate shows Scikit-learn practical usage
+- [Deep Learning | Critical] Candidate demonstrates neural network implementation exposure
+- [Deep Learning | Critical] Candidate shows TensorFlow or PyTorch experience
+- [Deep Learning | High] Candidate demonstrates CNN project exposure
+- [Deep Learning | High] Candidate shows RNN/LSTM familiarity
+- [Deep Learning | High] Candidate demonstrates transformer architecture awareness
+- [Deep Learning | High] Candidate shows transfer learning project exposure
+- [Deep Learning | High] Candidate demonstrates training pipeline setup experience
+- [Deep Learning | High] Candidate shows loss functions and optimizers understanding
+- [Deep Learning | Medium] Candidate demonstrates GPU/CUDA training exposure
+- [Deep Learning | Medium] Candidate shows model checkpointing knowledge
+- [NLP | Critical] Candidate demonstrates NLP project experience
+- [NLP | Critical] Candidate shows text preprocessing techniques
+- [NLP | High] Candidate demonstrates tokenization and embeddings familiarity
+- [NLP | High] Candidate shows Hugging Face transformers usage
+- [NLP | High] Candidate demonstrates LLM prompt engineering exposure
+- [NLP | High] Candidate shows fine-tuning pretrained language models
+- [NLP | High] Candidate demonstrates semantic search or embeddings projects
+- [NLP | High] Candidate shows Retrieval-Augmented Generation familiarity
+- [NLP | Medium] Candidate demonstrates vector database exposure
+- [NLP | Medium] Candidate shows LangChain or LlamaIndex familiarity
+- [Computer Vision | High] Candidate demonstrates OpenCV project exposure
+- [Computer Vision | High] Candidate shows image classification projects
+- [Computer Vision | High] Candidate demonstrates object detection familiarity
+- [Computer Vision | Medium] Candidate shows image segmentation awareness
+- [Computer Vision | Medium] Candidate demonstrates OCR or document AI exposure
+- [Data Engineering | High] Candidate shows data cleaning and preprocessing skills
+- [Data Engineering | High] Candidate demonstrates ETL/ELT pipeline familiarity
+- [Data Engineering | Medium] Candidate shows handling structured datasets
+- [Data Engineering | Medium] Candidate demonstrates handling unstructured data
+- [Data Engineering | Medium] Candidate shows data labeling or annotation exposure
+- [MLOps | High] Candidate demonstrates model deployment project exposure
+- [MLOps | High] Candidate shows Flask/FastAPI model APIs
+- [MLOps | High] Candidate demonstrates Docker familiarity
+- [MLOps | Medium] Candidate shows CI/CD basics for ML workflows
+- [MLOps | Medium] Candidate demonstrates MLflow or experiment tracking exposure
+- [MLOps | Medium] Candidate shows model monitoring awareness
+- [Cloud Infrastructure | Medium] Candidate demonstrates AWS/GCP/Azure exposure
+- [Cloud Infrastructure | Medium] Candidate shows basic cloud deployment knowledge
+- [Cloud Infrastructure | Medium] Candidate demonstrates Kubernetes awareness
+- [Cloud Infrastructure | Medium] Candidate shows storage services familiarity
+- [GenAI | Critical] Candidate demonstrates OpenAI or LLM API integration exposure
+- [GenAI | High] Candidate shows prompt chaining workflows
+- [GenAI | High] Candidate demonstrates AI agents experimentation
+- [GenAI | High] Candidate shows function calling and tools integration exposure
+- [GenAI | High] Candidate demonstrates LLM evaluation awareness
+- [GenAI | Medium] Candidate shows guardrails or prompt safety mechanisms
+- [Mathematics | High] Candidate demonstrates linear algebra foundations
+- [Mathematics | High] Candidate shows probability and statistics foundations
+- [Mathematics | High] Candidate demonstrates optimization concepts exposure
+- [Mathematics | Medium] Candidate shows calculus relevance to ML
+- [Software Quality | Medium] Candidate demonstrates unit testing exposure
+- [Software Quality | Medium] Candidate shows code documentation quality
+- [Software Quality | Medium] Candidate demonstrates reproducible experiments
+- [Software Quality | Medium] Candidate shows modular codebase organization
+- [Software Quality | Medium] Candidate demonstrates logging and error handling
+- [Applied AI Projects | Critical] Candidate shows end-to-end AI project ownership
+- [Applied AI Projects | Critical] Candidate demonstrates projects solving real-world use cases
+- [Applied AI Projects | High] Candidate shows internship involving applied AI tasks
+- [Applied AI Projects | High] Candidate demonstrates Kaggle or hackathon ML projects
+- [Applied AI Projects | High] Candidate shows multiple domain projects across NLP/CV/ML
+- [Applied AI Projects | High] Candidate demonstrates production-style deployment demos
+- [Applied AI Projects | High] Candidate shows GitHub repositories with substantive code
+- [Applied AI Projects | Medium] Candidate demonstrates benchmark comparison in projects
+- [Applied AI Projects | Medium] Candidate shows ablation or experimentation evidence
+- [Applied AI Projects | Medium] Candidate demonstrates full data-to-model lifecycle exposure
+- [AI Frameworks | High] Candidate shows Scikit-learn proficiency beyond basics
+- [AI Frameworks | High] Candidate demonstrates PyTorch model building
+- [AI Frameworks | Medium] Candidate shows TensorFlow/Keras exposure
+- [AI Frameworks | Medium] Candidate demonstrates Hugging Face ecosystem usage
+- [AI Frameworks | Medium] Candidate shows ONNX or model optimization awareness
+- [Data Visualization | Medium] Candidate demonstrates Matplotlib/Seaborn usage
+- [Data Visualization | Medium] Candidate shows exploratory data analysis evidence
+- [Data Visualization | Medium] Candidate demonstrates Streamlit or Gradio exposure
+- [Data Visualization | Medium] Candidate shows model result visualization examples
+- [Responsible AI | Medium] Candidate demonstrates data privacy handling awareness
+- [Responsible AI | Medium] Candidate shows bias/fairness awareness in ML projects
+- [Responsible AI | Medium] Candidate demonstrates secure API key and secrets handling
+- [Responsible AI | Medium] Candidate shows prompt injection or LLM safety awareness
+- [Job Stack Match | Critical] Candidate demonstrates direct overlap with Python, LLMs, APIs and deployment stack
+- [Job Stack Match | Critical] Candidate shows readiness to contribute technically from day one
+- [Model Optimization | High] Candidate demonstrates model compression or pruning awareness
+- [Inference Engineering | High] Candidate shows inference latency optimization exposure
+- [Data Pipelines | Medium] Candidate demonstrates batch or streaming pipeline familiarity
+- [Evaluation | High] Candidate shows experiment tracking with measurable performance improvements
+- [Prompt Engineering | High] Candidate demonstrates structured prompt design patterns
+- [RAG Systems | High] Candidate shows chunking, retrieval and reranking familiarity
